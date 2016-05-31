@@ -1,0 +1,98 @@
+[19:51:24] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:51:29] [Server thread/INFO]: Loading properties
+[19:51:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:51:29] [Server thread/INFO]: Generating keypair
+[19:51:29] [Server thread/INFO]: Starting Minecraft server on *:80
+[19:51:30] [Server thread/INFO]: Preparing level "world"
+[19:51:31] [Server thread/INFO]: Preparing start region for level 0
+[19:51:32] [Server thread/INFO]: Preparing spawn area: 28%
+[19:51:33] [Server thread/INFO]: Done (2.557s)! For help, type "help" or "?"
+[19:51:46] [User Authenticator #1/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[19:51:46] [Server thread/INFO]: LadyGorginaJones[/192.168.1.103:52937] logged in with entity id 40 at (-126.1635784425504, 61.0, -136.6501875263193)
+[19:51:46] [Server thread/INFO]: LadyGorginaJones joined the game
+[19:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2159ms behind, skipping 43 tick(s)
+[19:52:19] [User Authenticator #2/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[19:52:19] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:50767] logged in with entity id 241 at (258.8799136983147, 12.0, -340.94240426311785)
+[19:52:19] [Server thread/INFO]: SirGorgeJones joined the game
+[19:52:32] [Server thread/INFO]: <SirGorgeJones> hi
+[19:52:50] [Server thread/INFO]: <LadyGorginaJones> heiii
+[19:52:56] [Server thread/INFO]: <SirGorgeJones> ;-)
+[19:53:13] [Server thread/INFO]: <LadyGorginaJones> schrieb do ech lueg en felm ofem handy
+[19:53:55] [Server thread/INFO]: <SirGorgeJones> ok
+[19:54:11] [Server thread/INFO]: <LadyGorginaJones> ben schnell afk
+[19:54:24] [Server thread/INFO]: <SirGorgeJones> ok, soli au?
+[19:54:32] [Server thread/INFO]: <LadyGorginaJones> joa
+[19:56:43] [Server thread/INFO]: <SirGorgeJones> besch weder ome?
+[19:58:36] [Server thread/INFO]: <LadyGorginaJones> jou
+[19:58:47] [Server thread/INFO]: <SirGorgeJones> ok
+[20:09:38] [Server thread/INFO]: <LadyGorginaJones> jo ho
+[20:09:48] [Server thread/INFO]: <SirGorgeJones> jo
+[20:11:10] [Server thread/INFO]: <SirGorgeJones> wa esch
+[20:11:47] [Server thread/INFO]: <LadyGorginaJones> nomme mol hoi gseit cx
+[20:12:19] [Server thread/INFO]: <SirGorgeJones> k
+[20:14:12] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:14:12] [Server thread/INFO]: SirGorgeJones left the game
+[20:14:47] [User Authenticator #3/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:14:48] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:50898] logged in with entity id 26914 at (258.86335364543345, 12.0, -340.17634063666725)
+[20:14:48] [Server thread/INFO]: SirGorgeJones joined the game
+[20:14:57] [Server thread/INFO]: <SirGorgeJones> crash gha
+[20:15:20] [Server thread/INFO]: <LadyGorginaJones> ok cx
+[20:21:43] [Server thread/INFO]: <SirGorgeJones> chorz if wc gse
+[20:35:02] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:35:02] [Server thread/INFO]: SirGorgeJones left the game
+[20:35:39] [User Authenticator #4/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:35:39] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:50957] logged in with entity id 49049 at (368.30000001192093, 5.231523797587011, -352.68658047187154)
+[20:35:39] [Server thread/INFO]: SirGorgeJones joined the game
+[20:35:44] [Server thread/INFO]: <LadyGorginaJones> ok
+[20:35:50] [Server thread/INFO]: <SirGorgeJones> crash
+[20:35:57] [Server thread/INFO]: <SirGorgeJones> redstone ore agluegt
+[20:36:04] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:36:04] [Server thread/INFO]: SirGorgeJones left the game
+[20:36:40] [User Authenticator #5/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:36:40] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:50999] logged in with entity id 49614 at (367.34389969021237, 6.0, -352.37767620724605)
+[20:36:40] [Server thread/INFO]: SirGorgeJones joined the game
+[20:36:44] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:36:44] [Server thread/INFO]: SirGorgeJones left the game
+[20:37:18] [User Authenticator #6/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:37:18] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:51041] logged in with entity id 50286 at (367.34389969021237, 6.0, -352.37767620724605)
+[20:37:18] [Server thread/INFO]: SirGorgeJones joined the game
+[20:37:23] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:37:23] [Server thread/INFO]: SirGorgeJones left the game
+[20:38:18] [User Authenticator #7/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:38:18] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:51082] logged in with entity id 50844 at (367.34389969021237, 6.0, -352.37767620724605)
+[20:38:18] [Server thread/INFO]: SirGorgeJones joined the game
+[20:38:24] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:38:24] [Server thread/INFO]: SirGorgeJones left the game
+[20:39:03] [User Authenticator #8/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:39:04] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:51123] logged in with entity id 51419 at (367.34389969021237, 6.0, -352.37767620724605)
+[20:39:04] [Server thread/INFO]: SirGorgeJones joined the game
+[20:45:05] [Server thread/INFO]: <LadyGorginaJones> joa höremer uf
+[20:45:15] [Server thread/INFO]: <SirGorgeJones> wart no
+[20:45:40] [Server thread/INFO]: <LadyGorginaJones> ok stress dech
+[21:02:07] [Server thread/INFO]: <LadyGorginaJones> damian?
+[21:02:12] [Server thread/INFO]: <SirGorgeJones> jo
+[21:02:20] [Server thread/INFO]: <LadyGorginaJones> esch nüni gseh
+[21:02:31] [Server thread/INFO]: <SirGorgeJones> oook?
+[21:03:06] [Server thread/INFO]: <LadyGorginaJones> chömer etz ufhöre
+[21:03:22] [Server thread/INFO]: <SirGorgeJones> imene abartige höhle system
+[21:03:35] [Server thread/INFO]: <LadyGorginaJones> cx
+[21:07:29] [Server thread/INFO]: <LadyGorginaJones> ^-^
+[21:08:05] [Server thread/INFO]: <SirGorgeJones> ^_^
+[21:09:29] [Server thread/INFO]: <SirGorgeJones> pfuuuh
+[21:09:37] [Server thread/INFO]: <SirGorgeJones> zrog gfonde
+[21:09:53] [Server thread/INFO]: <SirGorgeJones> wemmer ufhöre?
+[21:10:49] [Server thread/INFO]: <SirGorgeJones> meli?
+[21:13:08] [Server thread/INFO]: <SirGorgeJones> schriib bevor d gosch
+[21:14:57] [Server thread/INFO]: Kicked LadyGorginaJones from the game: '"Schluss f?r heute"'
+[21:14:58] [Server thread/INFO]: LadyGorginaJones lost connection: TextComponent{text='"Schluss f?r heute"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:14:58] [Server thread/INFO]: LadyGorginaJones left the game
+[21:15:10] [Server thread/INFO]: Kicked SirGorgeJones from the game: '"Schluss f?r heute"'
+[21:15:10] [Server thread/INFO]: SirGorgeJones lost connection: TextComponent{text='"Schluss f?r heute"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:15:10] [Server thread/INFO]: SirGorgeJones left the game
+[21:15:17] [Server thread/INFO]: Stopping the server
+[21:15:17] [Server thread/INFO]: Stopping server
+[21:15:17] [Server thread/INFO]: Saving players
+[21:15:17] [Server thread/INFO]: Saving worlds
+[21:15:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:15:17] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[21:15:17] [Server thread/INFO]: Saving chunks for level 'world'/The End

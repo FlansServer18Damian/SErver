@@ -1,0 +1,833 @@
+[15:31:16] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:31:16] [main/INFO] [FML/]: Forge Mod Loader version 11.14.3.1519 for Minecraft 1.8 loading
+[15:31:16] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_66
+[15:31:16] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.8-11.14.3.1519-universal.jar
+[15:31:16] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\HP SimplePass 2011\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\VXIPNP\WinNT\Bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;.
+[15:31:16] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[15:31:16] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:31:16] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:31:16] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:31:16] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[15:31:16] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[15:31:16] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[15:31:16] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\.
+[15:31:16] [main/DEBUG] [FML/]: Discovering coremods
+[15:31:16] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.8-1.0.5.36-universal.jar
+[15:31:16] [main/TRACE] [FML/]: Adding CodeChickenCore-1.8-1.0.5.36-universal.jar to the list of known coremods, it will not be examined again
+[15:31:16] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
+[15:31:17] [main/WARN] [FML/]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:31:18] [main/TRACE] [FML/]: Adding CodeChickenLib-1.8-1.1.2.133-universal.jar to the list of known coremods, it will not be examined again
+[15:31:18] [main/DEBUG] [FML/]: Instantiating coremod class CCLCorePlugin
+[15:31:18] [main/WARN] [FML/]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:31:18] [main/DEBUG] [FML/]: Enqueued coremod CCLCorePlugin
+[15:31:18] [main/DEBUG] [FML/]: Added access transformer class codechicken.core.asm.CodeChickenAccessTransformer to enqueued access transformers
+[15:31:18] [main/DEBUG] [FML/]: Enqueued coremod CodeChickenCorePlugin
+[15:31:18] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.8-1.1.2.133-universal.jar
+[15:31:18] [main/TRACE] [FML/]: Adding CodeChickenLib-1.8-1.1.2.133-universal.jar to the list of known coremods, it will not be examined again
+[15:31:18] [main/DEBUG] [FML/]: Instantiating coremod class CCLCorePlugin
+[15:31:18] [main/WARN] [FML/]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:31:18] [main/DEBUG] [FML/]: Enqueued coremod CCLCorePlugin
+[15:31:18] [main/DEBUG] [FML/]: Examining for coremod candidacy Flan's Mod-1.8-5.1.jar
+[15:31:18] [main/DEBUG] [FML/]: Not found coremod data in Flan's Mod-1.8-5.1.jar
+[15:31:18] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:31:18] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:31:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:31:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:31:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:18] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[15:31:18] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[15:31:18] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:31:18] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:31:18] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:31:18] [main/DEBUG] [FML/]: Injection complete
+[15:31:18] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[15:31:18] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:31:19] [main/DEBUG] [FML/]: Read 785 binary patches
+[15:31:19] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:19] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[15:31:19] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[15:31:19] [main/DEBUG] [FML/]: Injection complete
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:19] [main/DEBUG] [FML/]: Injecting coremod CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin} class transformers
+[15:31:19] [main/DEBUG] [FML/]: Injection complete
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin for CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin}
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin CCCDeobfPlugin
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class LoadPlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:19] [main/DEBUG] [FML/]: Injecting coremod CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin} class transformers
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.RenderHookTransformer
+[15:31:19] [main/DEBUG] [FML/]: Injection complete
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin for CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin}
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin CCLCorePlugin
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class CCLCorePlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:19] [main/DEBUG] [FML/]: Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.TweakTransformer
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DelegatedTransformer
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+[15:31:19] [main/DEBUG] [FML/]: Injection complete
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin CodeChickenCorePlugin
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class CodeChickenCorePlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:31:19] [main/DEBUG] [FML/]: Injecting coremod CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin} class transformers
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[15:31:19] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.RenderHookTransformer
+[15:31:19] [main/DEBUG] [FML/]: Injection complete
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin for CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin}
+[15:31:19] [main/DEBUG] [FML/]: Running coremod plugin CCLCorePlugin
+[15:31:19] [main/DEBUG] [FML/]: Coremod plugin class CCLCorePlugin run successfully
+[15:31:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:31:19] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
+[15:31:19] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
+[15:31:19] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar!META-INF/ccl_at.cfg
+
+[15:31:19] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\CodeChickenCore-1.8-1.0.5.36-universal.jar!META-INF/ccc_at.cfg
+
+[15:31:19] [main/DEBUG] [FML/]: Validating minecraft
+[15:31:20] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[15:31:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:31:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:31:20] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:31:23] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[15:31:23] [Server thread/INFO] [FML/]: MinecraftForge v11.14.3.1519 Initialized
+[15:31:23] [Server thread/INFO] [FML/]: Replaced 204 ore recipies
+[15:31:23] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[15:31:23] [Server thread/DEBUG] [FML/]: File C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\config\injectedDependencies.json not found. No dependencies injected
+[15:31:23] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, codechicken.core.asm.CodeChickenCoreModContainer]
+[15:31:23] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[15:31:23] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\forge-1.8-11.14.3.1519-universal.jar, examining for mod candidates
+[15:31:23] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\CodeChickenCore-1.8-1.0.5.36-universal.jar
+[15:31:23] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\.\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar
+[15:31:23] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar
+[15:31:23] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[15:31:23] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[15:31:23] [Server thread/INFO] [FML/]: Searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods for mods
+[15:31:23] [Server thread/DEBUG] [FML/]: Found a candidate mod directory 1.8
+[15:31:23] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenCore-1.8-1.0.5.36-universal.jar
+[15:31:23] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Flan's Mod-1.8-5.1.jar
+[15:31:23] [Server thread/INFO] [FML/]: Also searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8 for mods
+[15:31:23] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenLib-1.8-1.1.2.133-universal.jar
+[15:31:23] [Server thread/DEBUG] [FML/]: Examining file forge-1.8-11.14.3.1519-universal.jar for potential mods
+[15:31:23] [Server thread/DEBUG] [FML/]: The mod container forge-1.8-11.14.3.1519-universal.jar appears to be missing an mcmod.info file
+[15:31:24] [Server thread/DEBUG] [FML/]: Examining directory 1.8 for potential mods
+[15:31:24] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.8
+[15:31:24] [Server thread/DEBUG] [FML/]: Examining file Flan's Mod-1.8-5.1.jar for potential mods
+[15:31:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Flan's Mod-1.8-5.1.jar
+[15:31:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.flansmod.common.FlansMod) - loading
+[15:31:24] [Server thread/TRACE] [flansmod/]: Parsed dependency info : [] [] []
+[15:31:24] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[15:31:24] [Server thread/TRACE] [FML/]: Received a system property request ''
+[15:31:24] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[15:31:24] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[15:31:24] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.3.1519-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW, en_US]
+[15:31:24] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.3.1519-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW, en_US]
+[15:31:24] [Server thread/DEBUG] [flansmod/]: Enabling mod flansmod
+[15:31:24] [Server thread/DEBUG] [FML/]: Found translations in Flan's Mod-1.8-5.1.jar [de_DE, en_US, es_ES, fr_FR, pt_BR, ru_RU, zh_CN]
+[15:31:24] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[15:31:24] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[15:31:24] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[15:31:24] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[15:31:24] [Server thread/DEBUG] [FML/]: Mod sorting data
+[15:31:24] [Server thread/DEBUG] [FML/]: 	flansmod(Flan's Mod:5.1): Flan's Mod-1.8-5.1.jar ()
+[15:31:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[15:31:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[15:31:24] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[15:31:24] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[15:31:24] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[15:31:24] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[15:31:24] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[15:31:24] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at CLIENT
+[15:31:24] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at SERVER
+[15:31:25] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.414s
+[15:31:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[15:31:25] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[15:31:25] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[15:31:25] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.14.3.1519)
+[15:31:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.008s
+[15:31:25] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLConstructionEvent to mod CodeChickenCore
+[15:31:25] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLConstructionEvent to mod CodeChickenCore
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - CodeChicken Core took 0.001s
+[15:31:25] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLConstructionEvent to mod flansmod
+[15:31:25] [Server thread/TRACE] [FML/flansmod]: Mod flansmod is using network checker : Accepting range @ALLOWEDVERSIONS@
+[15:31:25] [Server thread/TRACE] [FML/flansmod]: Testing mod flansmod to verify it accepts its own version in a remote connection
+[15:31:25] [Server thread/TRACE] [FML/flansmod]: The mod flansmod accepts its own version (5.1)
+[15:31:25] [Server thread/DEBUG] [FML/flansmod]: Attempting to inject @SidedProxy classes into flansmod
+[15:31:25] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLConstructionEvent to mod flansmod
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Flan's Mod took 0.257s
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.682s
+[15:31:25] [Server thread/DEBUG] [FML/]: Mod signature data
+[15:31:25] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[15:31:25] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[15:31:25] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[15:31:25] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8-11.14.3.1519-universal.jar
+[15:31:25] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.14.3.1519)	forge-1.8-11.14.3.1519-universal.jar
+[15:31:25] [Server thread/DEBUG] [FML/]: 		CodeChickenCore	(CodeChicken Core	1.0.5.36)	minecraft.jar
+[15:31:25] [Server thread/DEBUG] [FML/]: 		flansmod	(Flan's Mod	5.1)	Flan's Mod-1.8-5.1.jar
+[15:31:25] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[15:31:25] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[15:31:25] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[15:31:25] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[15:31:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[15:31:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[15:31:25] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[15:31:25] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.022s
+[15:31:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[15:31:25] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[15:31:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.028s
+[15:31:25] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLPreInitializationEvent to mod CodeChickenCore
+[15:31:25] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLPreInitializationEvent to mod CodeChickenCore
+[15:31:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - CodeChicken Core took 0.001s
+[15:31:25] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLPreInitializationEvent to mod flansmod
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitialising Flan's mod.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Simple Parts-Content Pack-1.8-5.1.1.jar
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : WW2-Content Pack-1.8-5.1.1.jar
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Ye Olde-Content Pack-1.8-5.0.jar
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack list server side.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded part.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded bullet.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded attachment.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded grenade.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded gun.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded aa.
+[15:31:25] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded vehicle.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded plane.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mechaItem.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mecha.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded tool.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armour.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armourBox.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded box.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded playerClass.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded team.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded itemHolder.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitializing complete.
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLPreInitializationEvent to mod flansmod
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Flan's Mod took 0.645s
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.698s
+[15:31:26] [Server thread/INFO] [FML/]: Applying holder lookups
+[15:31:26] [Server thread/INFO] [FML/]: Holder lookups applied
+[15:31:26] [Server thread/INFO] [FML/]: Injecting itemstacks
+[15:31:26] [Server thread/INFO] [FML/]: Itemstack injection complete
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLInitializationEvent to mod CodeChickenCore
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLInitializationEvent to mod CodeChickenCore
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - CodeChicken Core took 0.001s
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLInitializationEvent to mod flansmod
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Initialising Flan's Mod.
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Could not find P when adding recipe for nothing
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded recipes.
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityFlagpole
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityFlag
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityTeamItem
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityGunItem
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.EntityItemCustomRender
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityPlane
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityVehicle
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntitySeat
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityWheel
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.tools.EntityParachute
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.mechas.EntityMecha
+[15:31:26] [Server thread/TRACE] [FML/flansmod]: Automatically registered mod flansmod entity Bullet as flansmod.Bullet
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityGrenade
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityMG
+[15:31:26] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityAAGun
+[15:31:26] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loading complete.
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLInitializationEvent to mod flansmod
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Flan's Mod took 0.349s
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.351s
+[15:31:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.003s
+[15:31:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[15:31:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[15:31:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod CodeChickenCore
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event IMCEvent to mod CodeChickenCore
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event IMCEvent to mod CodeChickenCore
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - CodeChicken Core took 0.000s
+[15:31:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod flansmod
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sending event IMCEvent to mod flansmod
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sent event IMCEvent to mod flansmod
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Flan's Mod took 0.001s
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.005s
+[15:31:26] [Server thread/INFO] [FML/]: Injecting itemstacks
+[15:31:26] [Server thread/INFO] [FML/]: Itemstack injection complete
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.010s
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLPostInitializationEvent to mod CodeChickenCore
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLPostInitializationEvent to mod CodeChickenCore
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - CodeChicken Core took 0.000s
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLPostInitializationEvent to mod flansmod
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLPostInitializationEvent to mod flansmod
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Flan's Mod took 0.002s
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.013s
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[15:31:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[15:31:26] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[15:31:26] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("Before", UNKNOWN, )
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[15:31:26] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[15:31:26] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[15:31:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.009s
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLLoadCompleteEvent to mod CodeChickenCore
+[15:31:26] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLLoadCompleteEvent to mod CodeChickenCore
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - CodeChicken Core took 0.000s
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLLoadCompleteEvent to mod flansmod
+[15:31:26] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLLoadCompleteEvent to mod flansmod
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Flan's Mod took 0.000s
+[15:31:26] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.011s
+[15:31:26] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[15:31:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:31:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:31:26] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[15:31:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[15:31:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[15:31:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[15:31:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[15:31:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[15:31:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[15:31:27] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerAboutToStartEvent to mod CodeChickenCore
+[15:31:27] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerAboutToStartEvent to mod CodeChickenCore
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - CodeChicken Core took 0.000s
+[15:31:27] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerAboutToStartEvent to mod flansmod
+[15:31:27] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerAboutToStartEvent to mod flansmod
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Flan's Mod took 0.000s
+[15:31:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
+[15:31:27] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[15:31:27] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:31:27] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:31:27] [Server thread/TRACE] [FML/]: Skipping remap event - no remaps occured
+[15:31:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[15:31:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[15:31:27] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[15:31:27] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[15:31:27] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[15:31:27] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@203693a0)
+[15:31:27] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@203693a0)
+[15:31:27] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@203693a0)
+[15:31:28] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[15:31:28] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[15:31:28] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[15:31:28] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[15:31:28] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[15:31:28] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[15:31:28] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStartingEvent to mod CodeChickenCore
+[15:31:28] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStartingEvent to mod CodeChickenCore
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - CodeChicken Core took 0.000s
+[15:31:28] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStartingEvent to mod flansmod
+[15:31:28] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStartingEvent to mod flansmod
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Flan's Mod took 0.000s
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.004s
+[15:31:28] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[15:31:28] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[15:31:28] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[15:31:28] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[15:31:28] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[15:31:28] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[15:31:28] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStartedEvent to mod CodeChickenCore
+[15:31:28] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStartedEvent to mod CodeChickenCore
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - CodeChicken Core took 0.000s
+[15:31:28] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStartedEvent to mod flansmod
+[15:31:28] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStartedEvent to mod flansmod
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Flan's Mod took 0.008s
+[15:31:28] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.010s
+[15:31:47] [Netty Server IO #2/TRACE] [FML/]: Handshake channel activating
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: HELLO
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:31:47] [Netty Server IO #2/INFO] [FML/]: Client protocol version 2
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: HELLO
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[15:31:47] [Netty Server IO #2/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: WAITINGCACK
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: COMPLETE
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: DONE
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:31:47] [Netty Server IO #2/DEBUG] [FML/]:   Next: DONE
+[15:31:48] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[15:31:48] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:31:48] [Netty Server IO #2/DEBUG] [FML/]:   Next: DONE
+[15:31:51] [Netty Server IO #3/TRACE] [FML/]: Handshake channel activating
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:31:51] [Netty Server IO #3/INFO] [FML/]: Client protocol version 2
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[15:31:51] [Netty Server IO #3/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: WAITINGCACK
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: COMPLETE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:31:51] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[15:31:51] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[15:32:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:32:26] [Netty Server IO #3/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[15:32:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:33:02] [Netty Server IO #5/TRACE] [FML/]: Handshake channel activating
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: HELLO
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:33:02] [Netty Server IO #5/INFO] [FML/]: Client protocol version 2
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: HELLO
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[15:33:02] [Netty Server IO #5/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: WAITINGCACK
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: COMPLETE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: DONE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: DONE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:33:02] [Netty Server IO #5/DEBUG] [FML/]:   Next: DONE
+[15:33:02] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[15:33:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:34:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:35:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:35:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:36:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:37:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:38:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:38:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:39:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:40:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:41:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:41:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:42:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:43:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:44:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:44:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:45:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:46:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:47:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:47:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:48:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:49:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:50:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:50:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:51:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:52:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:53:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:53:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:54:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:55:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:56:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:56:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:57:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:58:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:59:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:59:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:00:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:01:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:02:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:02:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:03:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:04:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:05:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:05:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:06:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:07:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:08:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:08:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:09:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:10:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:11:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:11:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:12:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:13:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:14:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:14:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:15:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:16:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:17:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:17:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:18:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:19:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:20:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:20:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:21:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:22:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:23:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:23:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:24:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:25:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:26:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:26:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:27:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:28:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:29:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:29:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:30:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:31:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:32:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:32:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:33:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:34:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:35:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:35:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:36:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:37:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:38:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:38:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:39:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:40:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:41:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:41:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:42:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:43:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:44:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:44:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:45:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:46:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:47:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:47:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:48:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:49:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:50:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:50:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:51:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:52:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:53:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:53:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:54:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:55:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:56:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:56:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:57:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:58:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:58:55] [Netty Server IO #5/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[16:59:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:59:33] [Netty Server IO #6/TRACE] [FML/]: Handshake channel activating
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: HELLO
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:59:33] [Netty Server IO #6/INFO] [FML/]: Client protocol version 2
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: HELLO
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[16:59:33] [Netty Server IO #6/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: WAITINGCACK
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: COMPLETE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: DONE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: DONE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:59:33] [Netty Server IO #6/DEBUG] [FML/]:   Next: DONE
+[16:59:33] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[16:59:38] [Netty Server IO #6/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[16:59:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:00:16] [Netty Server IO #8/TRACE] [FML/]: Handshake channel activating
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: HELLO
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:00:16] [Netty Server IO #8/INFO] [FML/]: Client protocol version 2
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: HELLO
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[17:00:16] [Netty Server IO #8/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: WAITINGCACK
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: COMPLETE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: DONE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: DONE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:00:16] [Netty Server IO #8/DEBUG] [FML/]:   Next: DONE
+[17:00:16] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:00:20] [Netty Server IO #8/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[17:00:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:01:05] [Netty Server IO #10/TRACE] [FML/]: Handshake channel activating
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: HELLO
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:01:05] [Netty Server IO #10/INFO] [FML/]: Client protocol version 2
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: HELLO
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[17:01:05] [Netty Server IO #10/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: WAITINGCACK
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: COMPLETE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: DONE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: DONE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:01:05] [Netty Server IO #10/DEBUG] [FML/]:   Next: DONE
+[17:01:05] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:01:13] [Netty Server IO #10/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[17:01:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:01:45] [Netty Server IO #11/TRACE] [FML/]: Handshake channel activating
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: HELLO
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:01:45] [Netty Server IO #11/INFO] [FML/]: Client protocol version 2
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: HELLO
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[17:01:45] [Netty Server IO #11/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: WAITINGCACK
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: COMPLETE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: DONE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: DONE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:01:45] [Netty Server IO #11/DEBUG] [FML/]:   Next: DONE
+[17:01:45] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:01:55] [Netty Server IO #11/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[17:02:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:02:31] [Netty Server IO #13/TRACE] [FML/]: Handshake channel activating
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: HELLO
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:02:31] [Netty Server IO #13/INFO] [FML/]: Client protocol version 2
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: HELLO
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[17:02:31] [Netty Server IO #13/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: WAITINGCACK
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: COMPLETE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: DONE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: DONE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:02:31] [Netty Server IO #13/DEBUG] [FML/]:   Next: DONE
+[17:02:31] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:02:36] [Netty Server IO #13/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[17:02:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:03:12] [Netty Server IO #14/TRACE] [FML/]: Handshake channel activating
+[17:03:12] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:03:12] [Netty Server IO #14/DEBUG] [FML/]:   Next: HELLO
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:03:13] [Netty Server IO #14/INFO] [FML/]: Client protocol version 2
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: HELLO
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[17:03:13] [Netty Server IO #14/INFO] [FML/]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: WAITINGCACK
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: COMPLETE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: DONE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: DONE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:03:13] [Netty Server IO #14/DEBUG] [FML/]:   Next: DONE
+[17:03:13] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:03:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:04:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:05:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:05:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:06:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:06:47] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[17:06:47] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[17:06:47] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[17:06:47] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[17:06:47] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[17:06:47] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[17:06:47] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppingEvent to mod CodeChickenCore
+[17:06:47] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppingEvent to mod CodeChickenCore
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - CodeChicken Core took 0.000s
+[17:06:47] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStoppingEvent to mod flansmod
+[17:06:47] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStoppingEvent to mod flansmod
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Flan's Mod took 0.000s
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.001s
+[17:06:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:06:47] [Server thread/INFO] [FML/]: Unloading dimension 0
+[17:06:47] [Server thread/INFO] [FML/]: Unloading dimension -1
+[17:06:47] [Server thread/INFO] [FML/]: Unloading dimension 1
+[17:06:47] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[17:06:47] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:06:47] [Server thread/INFO] [FML/]: Holder lookups applied
+[17:06:47] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[17:06:47] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[17:06:47] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[17:06:47] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[17:06:47] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[17:06:47] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[17:06:47] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppedEvent to mod CodeChickenCore
+[17:06:47] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppedEvent to mod CodeChickenCore
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - CodeChicken Core took 0.000s
+[17:06:47] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStoppedEvent to mod flansmod
+[17:06:47] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStoppedEvent to mod flansmod
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Flan's Mod took 0.000s
+[17:06:47] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s

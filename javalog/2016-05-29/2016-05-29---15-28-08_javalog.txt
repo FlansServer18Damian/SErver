@@ -1,0 +1,103 @@
+[15:28:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:28:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:28:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:28:30] [main/INFO] [FML]: Forge Mod Loader version 11.14.3.1519 for Minecraft 1.8 loading
+[15:28:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_66
+[15:28:33] [main/WARN] [FML]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:28:33] [main/WARN] [FML]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:28:33] [main/WARN] [FML]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:28:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:28:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:28:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:28:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:28:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:36] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[15:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:28:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:28:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:28:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:28:38] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:28:42] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:28:42] [Server thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
+[15:28:42] [Server thread/INFO] [FML]: MinecraftForge v11.14.3.1519 Initialized
+[15:28:42] [Server thread/INFO] [FML]: Replaced 204 ore recipies
+[15:28:43] [Server thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
+[15:28:44] [Server thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[15:28:44] [Server thread/INFO] [FML]: Searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods for mods
+[15:28:44] [Server thread/INFO] [FML]: Also searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8 for mods
+[15:28:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[15:28:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at CLIENT
+[15:28:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at SERVER
+[15:28:48] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:28:48] [Server thread/INFO] [FML]: Found 384 ObjectHolder annotations
+[15:28:48] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:28:48] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[15:28:48] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:28:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitialising Flan's mod.
+[15:28:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Simple Parts-Content Pack-1.8-5.1.1.jar
+[15:28:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : WW2-Content Pack-1.8-5.1.1.jar
+[15:28:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Ye Olde-Content Pack-1.8-5.0.jar
+[15:28:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack list server side.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded part.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded bullet.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded attachment.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded grenade.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded gun.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded aa.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded vehicle.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded plane.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mechaItem.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mecha.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded tool.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armour.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armourBox.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded box.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded playerClass.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded team.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded itemHolder.
+[15:28:50] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitializing complete.
+[15:28:50] [Server thread/INFO] [FML]: Applying holder lookups
+[15:28:50] [Server thread/INFO] [FML]: Holder lookups applied
+[15:28:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:28:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:28:50] [Server thread/INFO]: Loading properties
+[15:28:50] [Server thread/INFO]: Default game type: SURVIVAL
+[15:28:50] [Server thread/INFO]: Generating keypair
+[15:28:50] [Server thread/INFO]: Starting Minecraft server on *:80
+[15:28:52] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Initialising Flan's Mod.
+[15:28:52] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Could not find P when adding recipe for nothing
+[15:28:52] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded recipes.
+[15:28:52] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loading complete.
+[15:28:52] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:28:52] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:28:52] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[15:28:52] [Server thread/INFO]: Preparing level "world"
+[15:28:53] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[15:28:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:28:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:28:53] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@64435508)
+[15:28:53] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@64435508)
+[15:28:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@64435508)
+[15:28:53] [Server thread/INFO]: Preparing start region for level 0
+[15:28:54] [Server thread/INFO]: Preparing spawn area: 22%
+[15:28:55] [Server thread/INFO]: Preparing spawn area: 41%
+[15:28:56] [Server thread/INFO]: Preparing spawn area: 52%
+[15:28:57] [Server thread/INFO]: Preparing spawn area: 67%
+[15:28:58] [Server thread/INFO]: Preparing spawn area: 89%
+[15:28:59] [Server thread/INFO]: Done (6.321s)! For help, type "help" or "?"
+[15:28:59] [Server thread/INFO]: Stopping the server
+[15:28:59] [Server thread/INFO]: Stopping server
+[15:28:59] [Server thread/INFO]: Saving players
+[15:28:59] [Server thread/INFO]: Saving worlds
+[15:28:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:28:59] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[15:28:59] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[15:28:59] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:28:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:28:59] [Server thread/INFO] [FML]: Unloading dimension 1
+[15:28:59] [Server thread/INFO] [FML]: Applying holder lookups
+[15:28:59] [Server thread/INFO] [FML]: Holder lookups applied

@@ -1,0 +1,548 @@
+[18:41:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:41:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:41:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:41:32] [main/INFO] [FML]: Forge Mod Loader version 11.14.3.1519 for Minecraft 1.8 loading
+[18:41:32] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_66
+[18:41:34] [main/WARN] [FML]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:41:34] [main/WARN] [FML]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:41:34] [main/WARN] [FML]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:41:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:41:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:41:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:41:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:41:37] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:41:40] [Server thread/INFO]: Starting minecraft server version 1.8
+[18:41:40] [Server thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
+[18:41:40] [Server thread/INFO] [FML]: MinecraftForge v11.14.3.1519 Initialized
+[18:41:41] [Server thread/INFO] [FML]: Replaced 204 ore recipies
+[18:41:41] [Server thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
+[18:41:41] [Server thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[18:41:41] [Server thread/INFO] [FML]: Searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods for mods
+[18:41:41] [Server thread/INFO] [FML]: Also searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8 for mods
+[18:41:43] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[18:41:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at CLIENT
+[18:41:43] [Server thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at SERVER
+[18:41:45] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:41:45] [Server thread/INFO] [FML]: Found 384 ObjectHolder annotations
+[18:41:45] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:41:45] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:41:45] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitialising Flan's mod.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Simple Parts-Content Pack-1.8-5.1.1.jar
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : WW2-Content Pack-1.8-5.1.1.jar
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Ye Olde-Content Pack-1.8-5.0.jar
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack list server side.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded part.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded bullet.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded attachment.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded grenade.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded gun.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded aa.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded vehicle.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded plane.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mechaItem.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mecha.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded tool.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armour.
+[18:41:45] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armourBox.
+[18:41:46] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded box.
+[18:41:46] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded playerClass.
+[18:41:46] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded team.
+[18:41:46] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded itemHolder.
+[18:41:46] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitializing complete.
+[18:41:46] [Server thread/INFO] [FML]: Applying holder lookups
+[18:41:46] [Server thread/INFO] [FML]: Holder lookups applied
+[18:41:46] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:41:46] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:41:46] [Server thread/INFO]: Loading properties
+[18:41:46] [Server thread/INFO]: Default game type: SURVIVAL
+[18:41:46] [Server thread/INFO]: Generating keypair
+[18:41:47] [Server thread/INFO]: Starting Minecraft server on *:80
+[18:41:47] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Initialising Flan's Mod.
+[18:41:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Could not find P when adding recipe for nothing
+[18:41:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded recipes.
+[18:41:48] [Server thread/INFO] [STDOUT]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loading complete.
+[18:41:48] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:41:48] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:41:48] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[18:41:48] [Server thread/INFO]: Preparing level "world"
+[18:41:48] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[18:41:48] [Server thread/INFO] [FML]: Applying holder lookups
+[18:41:48] [Server thread/INFO] [FML]: Holder lookups applied
+[18:41:49] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@14cc55d7)
+[18:41:49] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@14cc55d7)
+[18:41:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@14cc55d7)
+[18:41:49] [Server thread/INFO]: Preparing start region for level 0
+[18:41:50] [Server thread/INFO]: Preparing spawn area: 13%
+[18:41:51] [Server thread/INFO]: Preparing spawn area: 57%
+[18:41:51] [Server thread/INFO]: Done (3.228s)! For help, type "help" or "?"
+[18:59:52] [Server thread/INFO]: Opped SirGorgeJones
+[19:05:14] [User Authenticator #1/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[19:05:15] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[19:05:15] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[19:05:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:05:16] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:54469] logged in with entity id 357 at (242.84709446591606, 66.0, -90.87008658718787)
+[19:05:16] [Server thread/INFO]: SirGorgeJones joined the game
+[19:05:27] [Server thread/INFO]: SirGorgeJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:05:27] [Server thread/INFO]: SirGorgeJones left the game
+[19:43:52] [Server thread/INFO]: That player cannot be found
+[19:44:17] [Server thread/INFO]: That player cannot be found
+[19:44:42] [Server thread/INFO]: That player cannot be found
+[19:44:44] [Server thread/INFO]: That player cannot be found
+[19:44:55] [Server thread/INFO]: That player cannot be found
+[19:44:58] [Server thread/INFO]: That player cannot be found
+[20:14:55] [User Authenticator #2/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:14:55] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[20:14:55] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:14:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:14:55] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56089] logged in with entity id 573 at (242.84709446591606, 66.0, -90.87008658718787)
+[20:14:55] [Server thread/INFO]: SirGorgeJones joined the game
+[20:15:22] [Server thread/INFO]: De-opped SirGorgeJones
+[20:18:19] [User Authenticator #3/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:18:20] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[20:18:20] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:18:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:18:20] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65255] logged in with entity id 2213 at (236.90270327735644, 64.0, -100.30211565303425)
+[20:18:20] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:24:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3108ms behind, skipping 62 tick(s)
+[20:24:59] [Server thread/INFO]: SirGorgeJones fell out of the world
+[20:24:59] [Server thread/INFO]: Killed SirGorgeJones
+[20:25:47] [Server thread/INFO]: Set the time to 0
+[20:28:18] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Getting Wood]
+[20:28:35] [Netty Server IO #5/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:28:36] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:28:36] [Server thread/INFO]: LadyGorginaJones left the game
+[20:28:40] [Server thread/INFO]: SirGorgeJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:28:40] [Server thread/INFO]: SirGorgeJones left the game
+[20:30:23] [User Authenticator #4/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[20:30:23] [Netty Server IO #7/INFO] [FML]: Client protocol version 2
+[20:30:23] [Netty Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:30:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:23] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56110] logged in with entity id 10841 at (290.6566067929194, 71.0, -268.36321173940473)
+[20:30:23] [Server thread/INFO]: SirGorgeJones joined the game
+[20:30:26] [User Authenticator #5/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:30:27] [Netty Server IO #9/INFO] [FML]: Client protocol version 2
+[20:30:27] [Netty Server IO #9/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:30:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:27] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65345] logged in with entity id 11291 at (277.14493300674064, 74.0, -263.69080632176235)
+[20:30:27] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:33:21] [Netty Server IO #9/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:33:21] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:33:21] [Server thread/INFO]: LadyGorginaJones left the game
+[20:34:19] [User Authenticator #6/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:34:19] [Netty Server IO #11/INFO] [FML]: Client protocol version 2
+[20:34:19] [Netty Server IO #11/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:34:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:34:19] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65390] logged in with entity id 15263 at (277.4849408864863, 73.76636799395752, -264.4274496073918)
+[20:34:19] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:36:41] [Server thread/INFO]: Set the time to 0
+[20:39:12] [Netty Server IO #11/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:39:12] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:39:12] [Server thread/INFO]: LadyGorginaJones left the game
+[20:41:05] [User Authenticator #7/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:41:05] [Netty Server IO #13/INFO] [FML]: Client protocol version 2
+[20:41:05] [Netty Server IO #13/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:41:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:41:05] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65432] logged in with entity id 23716 at (277.4849408864863, 73.0, -264.4274496073918)
+[20:41:05] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:41:20] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Getting Wood]
+[20:42:36] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Benchmarking]
+[20:45:56] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Time to Mine!]
+[20:46:21] [Server thread/INFO]: Set the time to 0
+[20:48:43] [Netty Server IO #13/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:48:43] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:48:43] [Server thread/INFO]: LadyGorginaJones left the game
+[20:51:03] [User Authenticator #8/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:51:04] [Netty Server IO #15/INFO] [FML]: Client protocol version 2
+[20:51:04] [Netty Server IO #15/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:51:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:51:04] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65483] logged in with entity id 35089 at (277.3733833051461, 73.0, -264.69999998807907)
+[20:51:04] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:52:55] [Server thread/INFO]: Set the time to 0
+[20:53:23] [Netty Server IO #15/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:53:23] [Server thread/INFO]: LadyGorginaJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:53:23] [Server thread/INFO]: LadyGorginaJones left the game
+[20:53:46] [User Authenticator #9/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:53:47] [Netty Server IO #0/INFO] [FML]: Client protocol version 2
+[20:53:47] [Netty Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:53:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:53:47] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:65519] logged in with entity id 38279 at (277.3733833051461, 73.0, -264.69999998807907)
+[20:53:47] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:54:11] [Netty Server IO #0/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:54:11] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:54:11] [Server thread/INFO]: LadyGorginaJones left the game
+[20:55:16] [User Authenticator #10/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[20:55:17] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[20:55:17] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[20:55:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:55:17] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:49167] logged in with entity id 39786 at (277.3733833051461, 73.0, -264.69999998807907)
+[20:55:17] [Server thread/INFO]: LadyGorginaJones joined the game
+[20:59:19] [Netty Server IO #2/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[20:59:19] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:59:19] [Server thread/INFO]: LadyGorginaJones left the game
+[21:02:47] [Server thread/INFO]: Set the time to 0
+[21:03:17] [User Authenticator #11/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[21:03:17] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[21:03:17] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[21:03:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:03:17] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:50094] logged in with entity id 48149 at (277.3733833051461, 73.0, -264.69999998807907)
+[21:03:17] [Server thread/INFO]: LadyGorginaJones joined the game
+[21:04:04] [Netty Server IO #4/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[21:04:04] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:04:04] [Server thread/INFO]: LadyGorginaJones left the game
+[21:05:38] [User Authenticator #12/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[21:05:39] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[21:05:39] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[21:05:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:05:39] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:50119] logged in with entity id 50490 at (277.3733833051461, 73.0, -264.69999998807907)
+[21:05:39] [Server thread/INFO]: LadyGorginaJones joined the game
+[21:06:46] [Netty Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[21:06:46] [Server thread/INFO]: LadyGorginaJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:06:46] [Server thread/INFO]: LadyGorginaJones left the game
+[21:06:52] [Server thread/INFO]: SirGorgeJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:06:52] [Server thread/INFO]: SirGorgeJones left the game
+[21:09:22] [User Authenticator #13/INFO]: UUID of player LadyGorginaJones is 63a3002c-5d96-45f2-a076-473ab8da252c
+[21:09:22] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[21:09:22] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.104,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[21:09:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:09:22] [Server thread/INFO]: LadyGorginaJones[/192.168.1.106:50650] logged in with entity id 52184 at (277.3733833051461, 73.0, -264.69999998807907)
+[21:09:22] [Server thread/INFO]: LadyGorginaJones joined the game
+[21:10:40] [Server thread/INFO]: [Server] [SERVER]GO!
+[21:10:44] [Server thread/INFO]: Set the time to 0
+[21:10:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@58593c28[id=<null>,name=SirGorgeJones,properties={},legacy=false] (/192.168.1.105:56156) lost connection: Disconnected
+[21:10:55] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Benchmarking]
+[21:11:32] [Server thread/INFO]: [Server] [SERVER] incoming
+[21:11:44] [Server thread/INFO]: [Server] §1 lol
+[21:12:02] [Server thread/INFO]: [Server] §2 lol
+[21:12:13] [Server thread/INFO]: <LadyGorginaJones> sorry star
+[21:12:32] [User Authenticator #14/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[21:12:32] [Netty Server IO #11/INFO] [FML]: Client protocol version 2
+[21:12:32] [Netty Server IO #11/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[21:12:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:12:32] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56210] logged in with entity id 56039 at (248.26449705252924, 64.0, -315.45088321702553)
+[21:12:32] [Server thread/INFO]: SirGorgeJones joined the game
+[21:12:43] [Server thread/INFO]: [Server] §3 lol
+[21:14:22] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Getting an Upgrade]
+[21:15:06] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Time to Mine!]
+[21:15:49] [Server thread/INFO]: Opped SirGorgeJones
+[21:17:04] [Server thread/INFO]: [SirGorgeJones: De-opped SirGorgeJones]
+[21:17:07] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Getting an Upgrade]
+[21:17:20] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Time to Strike!]
+[21:18:42] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Time to Strike!]
+[21:20:52] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Monster Hunter]
+[21:21:45] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Hot Topic]
+[21:24:55] [Server thread/INFO]: LadyGorginaJones was blown up by Creeper
+[21:25:26] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Monster Hunter]
+[21:27:03] [Server thread/INFO]: LadyGorginaJones was slain by Zombie
+[21:27:19] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Hot Topic]
+[21:27:56] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Acquire Hardware]
+[21:50:36] [Server thread/INFO]: SirGorgeJones has just earned the achievement [Time to Farm!]
+[21:52:35] [Server thread/INFO]: LadyGorginaJones has just earned the achievement [Cow Tipper]
+[21:58:16] [Server thread/WARN]: LadyGorginaJones moved wrongly!
+[22:05:29] [Server thread/INFO]: SirGorgeJones drowned
+[22:09:01] [Server thread/INFO]: SirGorgeJones drowned
+[22:13:54] [Server thread/INFO]: SirGorgeJones drowned
+[22:17:44] [Server thread/INFO]: SirGorgeJones drowned
+[22:23:22] [Server thread/INFO]: LadyGorginaJones was shot by Skeleton
+[22:24:14] [Server thread/INFO]: LadyGorginaJones was slain by Zombie
+[22:25:22] [Server thread/WARN]: LadyGorginaJones moved wrongly!
+[22:26:17] [Server thread/INFO]: LadyGorginaJones was slain by Spider
+[22:26:28] [Server thread/WARN]: LadyGorginaJones moved too quickly! -6.9375547744485,1.7102121181352459,8.336123293435108 (6.9375547744485, 1.7102121181352459, 8.336123293435108)
+[22:26:43] [Netty Server IO #11/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:26:43] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:26:43] [Server thread/INFO]: SirGorgeJones left the game
+[22:26:59] [Server thread/INFO]: LadyGorginaJones was shot by Skeleton
+[22:27:13] [Netty Server IO #8/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:27:13] [Server thread/INFO]: LadyGorginaJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:27:13] [Server thread/INFO]: LadyGorginaJones left the game
+[22:27:30] [User Authenticator #15/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[22:27:30] [Netty Server IO #12/INFO] [FML]: Client protocol version 2
+[22:27:30] [Netty Server IO #12/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[22:27:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:27:30] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56336] logged in with entity id 128646 at (266.6685653526064, 8.0, -335.68363245510426)
+[22:27:30] [Server thread/INFO]: SirGorgeJones joined the game
+[22:27:38] [Netty Server IO #12/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:27:38] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:27:38] [Server thread/INFO]: SirGorgeJones left the game
+[22:28:20] [User Authenticator #16/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[22:28:21] [Netty Server IO #13/INFO] [FML]: Client protocol version 2
+[22:28:21] [Netty Server IO #13/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[22:28:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:28:21] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56379] logged in with entity id 128834 at (266.6685653526064, 8.0, -335.68363245510426)
+[22:28:21] [Server thread/INFO]: SirGorgeJones joined the game
+[22:28:27] [Netty Server IO #13/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:28:27] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:28:27] [Server thread/INFO]: SirGorgeJones left the game
+[22:29:02] [User Authenticator #17/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[22:29:02] [Netty Server IO #14/INFO] [FML]: Client protocol version 2
+[22:29:02] [Netty Server IO #14/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[22:29:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:29:02] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56421] logged in with entity id 128948 at (266.6685653526064, 8.0, -335.68363245510426)
+[22:29:02] [Server thread/INFO]: SirGorgeJones joined the game
+[22:29:07] [Netty Server IO #14/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:29:07] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:29:07] [Server thread/INFO]: SirGorgeJones left the game
+[22:29:54] [User Authenticator #18/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[22:29:54] [Netty Server IO #15/INFO] [FML]: Client protocol version 2
+[22:29:54] [Netty Server IO #15/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[22:29:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:29:54] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56463] logged in with entity id 129055 at (266.23886444981736, 8.0, -335.69822726518777)
+[22:29:54] [Server thread/INFO]: SirGorgeJones joined the game
+[22:29:57] [Netty Server IO #15/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_66]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.15.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871) ~[AbstractByteBuf.class:4.0.15.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.15.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:124) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:485) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) [NioEventLoop.class:4.0.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:4.0.15.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[22:29:57] [Server thread/INFO]: SirGorgeJones lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:29:57] [Server thread/INFO]: SirGorgeJones left the game
+[22:30:37] [User Authenticator #19/INFO]: UUID of player SirGorgeJones is 7a3f47b8-2da4-445a-bce3-297d87fdee98
+[22:30:37] [Netty Server IO #0/INFO] [FML]: Client protocol version 2
+[22:30:37] [Netty Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : flansmod@5.1,CodeChickenCore@1.0.5.36,NotEnoughItems@1.0.5.82,FML@8.0.99.99,Forge@11.14.3.1519,mcp@9.05
+[22:30:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:30:37] [Server thread/INFO]: SirGorgeJones[/192.168.1.105:56506] logged in with entity id 129161 at (266.23886444981736, 8.0, -335.69822726518777)
+[22:30:37] [Server thread/INFO]: SirGorgeJones joined the game
+[22:33:29] [Server thread/INFO]: SirGorgeJones lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:33:29] [Server thread/INFO]: SirGorgeJones left the game
+[22:33:33] [Server thread/INFO]: Stopping the server
+[22:33:33] [Server thread/INFO]: Stopping server
+[22:33:33] [Server thread/INFO]: Saving players
+[22:33:33] [Server thread/INFO]: Saving worlds
+[22:33:33] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:33:33] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:33:33] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:33:33] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:33:33] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:33:33] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:33:33] [Server thread/INFO] [FML]: Applying holder lookups
+[22:33:33] [Server thread/INFO] [FML]: Holder lookups applied

@@ -1,0 +1,1 @@
+start explorer.exe C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver

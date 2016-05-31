@@ -1,0 +1,433 @@
+[11:48:48] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[11:48:48] [main/INFO] [FML/]: Forge Mod Loader version 11.14.3.1519 for Minecraft 1.8 loading
+[11:48:48] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_66
+[11:48:48] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.8-11.14.3.1519-universal.jar
+[11:48:48] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\HP SimplePass 2011\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\VXIPNP\WinNT\Bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;.
+[11:48:48] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[11:48:48] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[11:48:48] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[11:48:48] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[11:48:48] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[11:48:48] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[11:48:48] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[11:48:48] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\.
+[11:48:48] [main/DEBUG] [FML/]: Discovering coremods
+[11:48:48] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.8-1.0.5.36-universal.jar
+[11:48:48] [main/TRACE] [FML/]: Adding CodeChickenCore-1.8-1.0.5.36-universal.jar to the list of known coremods, it will not be examined again
+[11:48:48] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
+[11:48:49] [main/WARN] [FML/]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:48:49] [main/TRACE] [FML/]: Adding CodeChickenLib-1.8-1.1.2.133-universal.jar to the list of known coremods, it will not be examined again
+[11:48:49] [main/DEBUG] [FML/]: Instantiating coremod class CCLCorePlugin
+[11:48:49] [main/WARN] [FML/]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:48:49] [main/DEBUG] [FML/]: Enqueued coremod CCLCorePlugin
+[11:48:49] [main/DEBUG] [FML/]: Added access transformer class codechicken.core.asm.CodeChickenAccessTransformer to enqueued access transformers
+[11:48:49] [main/DEBUG] [FML/]: Enqueued coremod CodeChickenCorePlugin
+[11:48:49] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.8-1.1.2.133-universal.jar
+[11:48:49] [main/TRACE] [FML/]: Adding CodeChickenLib-1.8-1.1.2.133-universal.jar to the list of known coremods, it will not be examined again
+[11:48:49] [main/DEBUG] [FML/]: Instantiating coremod class CCLCorePlugin
+[11:48:49] [main/WARN] [FML/]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:48:49] [main/DEBUG] [FML/]: Enqueued coremod CCLCorePlugin
+[11:48:49] [main/DEBUG] [FML/]: Examining for coremod candidacy Flan's Mod-1.8-5.1.jar
+[11:48:49] [main/DEBUG] [FML/]: Not found coremod data in Flan's Mod-1.8-5.1.jar
+[11:48:49] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:48:49] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:48:49] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:48:49] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:48:49] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:49] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[11:48:49] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[11:48:49] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[11:48:49] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[11:48:49] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[11:48:49] [main/DEBUG] [FML/]: Injection complete
+[11:48:49] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[11:48:49] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[11:48:51] [main/DEBUG] [FML/]: Read 785 binary patches
+[11:48:51] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:51] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[11:48:51] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[11:48:51] [main/DEBUG] [FML/]: Injection complete
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:51] [main/DEBUG] [FML/]: Injecting coremod CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin} class transformers
+[11:48:51] [main/DEBUG] [FML/]: Injection complete
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin for CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin}
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin CCCDeobfPlugin
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class LoadPlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:51] [main/DEBUG] [FML/]: Injecting coremod CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin} class transformers
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.RenderHookTransformer
+[11:48:51] [main/DEBUG] [FML/]: Injection complete
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin for CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin}
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin CCLCorePlugin
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class CCLCorePlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:51] [main/DEBUG] [FML/]: Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.TweakTransformer
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DelegatedTransformer
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+[11:48:51] [main/DEBUG] [FML/]: Injection complete
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin CodeChickenCorePlugin
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class CodeChickenCorePlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:48:51] [main/DEBUG] [FML/]: Injecting coremod CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin} class transformers
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[11:48:51] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.RenderHookTransformer
+[11:48:51] [main/DEBUG] [FML/]: Injection complete
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin for CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin}
+[11:48:51] [main/DEBUG] [FML/]: Running coremod plugin CCLCorePlugin
+[11:48:51] [main/DEBUG] [FML/]: Coremod plugin class CCLCorePlugin run successfully
+[11:48:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:48:51] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
+[11:48:51] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
+[11:48:51] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar!META-INF/ccl_at.cfg
+
+[11:48:51] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\CodeChickenCore-1.8-1.0.5.36-universal.jar!META-INF/ccc_at.cfg
+
+[11:48:51] [main/DEBUG] [FML/]: Validating minecraft
+[11:48:52] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[11:48:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:48:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:48:52] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[11:48:55] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[11:48:55] [Server thread/INFO] [FML/]: MinecraftForge v11.14.3.1519 Initialized
+[11:48:55] [Server thread/INFO] [FML/]: Replaced 204 ore recipies
+[11:48:55] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[11:48:55] [Server thread/DEBUG] [FML/]: File C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\config\injectedDependencies.json not found. No dependencies injected
+[11:48:56] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, codechicken.core.asm.CodeChickenCoreModContainer]
+[11:48:56] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[11:48:56] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\forge-1.8-11.14.3.1519-universal.jar, examining for mod candidates
+[11:48:56] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\CodeChickenCore-1.8-1.0.5.36-universal.jar
+[11:48:56] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\.\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar
+[11:48:56] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8\CodeChickenLib-1.8-1.1.2.133-universal.jar
+[11:48:56] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[11:48:56] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[11:48:56] [Server thread/INFO] [FML/]: Searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods for mods
+[11:48:56] [Server thread/DEBUG] [FML/]: Found a candidate mod directory 1.8
+[11:48:56] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenCore-1.8-1.0.5.36-universal.jar
+[11:48:56] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Flan's Mod-1.8-5.1.jar
+[11:48:56] [Server thread/INFO] [FML/]: Also searching C:\Users\Damian\AppData\Roaming\.minecraft\Flansmod\SErver\mods\1.8 for mods
+[11:48:56] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenLib-1.8-1.1.2.133-universal.jar
+[11:48:56] [Server thread/DEBUG] [FML/]: Examining file forge-1.8-11.14.3.1519-universal.jar for potential mods
+[11:48:56] [Server thread/DEBUG] [FML/]: The mod container forge-1.8-11.14.3.1519-universal.jar appears to be missing an mcmod.info file
+[11:48:56] [Server thread/DEBUG] [FML/]: Examining directory 1.8 for potential mods
+[11:48:56] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.8
+[11:48:56] [Server thread/DEBUG] [FML/]: Examining file Flan's Mod-1.8-5.1.jar for potential mods
+[11:48:56] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Flan's Mod-1.8-5.1.jar
+[11:48:57] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.flansmod.common.FlansMod) - loading
+[11:48:57] [Server thread/TRACE] [flansmod/]: Parsed dependency info : [] [] []
+[11:48:57] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[11:48:57] [Server thread/TRACE] [FML/]: Received a system property request ''
+[11:48:57] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[11:48:57] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[11:48:57] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.3.1519-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW, en_US]
+[11:48:57] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.3.1519-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW, en_US]
+[11:48:57] [Server thread/DEBUG] [flansmod/]: Enabling mod flansmod
+[11:48:57] [Server thread/DEBUG] [FML/]: Found translations in Flan's Mod-1.8-5.1.jar [de_DE, en_US, es_ES, fr_FR, pt_BR, ru_RU, zh_CN]
+[11:48:57] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[11:48:57] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[11:48:57] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[11:48:57] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[11:48:57] [Server thread/DEBUG] [FML/]: Mod sorting data
+[11:48:57] [Server thread/DEBUG] [FML/]: 	flansmod(Flan's Mod:5.1): Flan's Mod-1.8-5.1.jar ()
+[11:48:57] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[11:48:57] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[11:48:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[11:48:57] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[11:48:57] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[11:48:57] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[11:48:57] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[11:48:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at CLIENT
+[11:48:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, flansmod] at SERVER
+[11:48:57] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[11:48:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.470s
+[11:48:57] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[11:48:57] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[11:48:57] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[11:48:57] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.14.3.1519)
+[11:48:57] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[11:48:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.010s
+[11:48:57] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLConstructionEvent to mod CodeChickenCore
+[11:48:57] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLConstructionEvent to mod CodeChickenCore
+[11:48:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - CodeChicken Core took 0.001s
+[11:48:57] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLConstructionEvent to mod flansmod
+[11:48:58] [Server thread/TRACE] [FML/flansmod]: Mod flansmod is using network checker : Accepting range @ALLOWEDVERSIONS@
+[11:48:58] [Server thread/TRACE] [FML/flansmod]: Testing mod flansmod to verify it accepts its own version in a remote connection
+[11:48:58] [Server thread/TRACE] [FML/flansmod]: The mod flansmod accepts its own version (5.1)
+[11:48:58] [Server thread/DEBUG] [FML/flansmod]: Attempting to inject @SidedProxy classes into flansmod
+[11:48:58] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLConstructionEvent to mod flansmod
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Flan's Mod took 0.254s
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.737s
+[11:48:58] [Server thread/DEBUG] [FML/]: Mod signature data
+[11:48:58] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[11:48:58] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[11:48:58] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[11:48:58] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8-11.14.3.1519-universal.jar
+[11:48:58] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.14.3.1519)	forge-1.8-11.14.3.1519-universal.jar
+[11:48:58] [Server thread/DEBUG] [FML/]: 		CodeChickenCore	(CodeChicken Core	1.0.5.36)	minecraft.jar
+[11:48:58] [Server thread/DEBUG] [FML/]: 		flansmod	(Flan's Mod	5.1)	Flan's Mod-1.8-5.1.jar
+[11:48:58] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[11:48:58] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[11:48:58] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[11:48:58] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[11:48:58] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[11:48:58] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[11:48:58] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[11:48:58] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.024s
+[11:48:58] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[11:48:58] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[11:48:58] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.027s
+[11:48:58] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLPreInitializationEvent to mod CodeChickenCore
+[11:48:58] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLPreInitializationEvent to mod CodeChickenCore
+[11:48:58] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - CodeChicken Core took 0.001s
+[11:48:58] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLPreInitializationEvent to mod flansmod
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitialising Flan's mod.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Simple Parts-Content Pack-1.8-5.1.1.jar
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : WW2-Content Pack-1.8-5.1.1.jar
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack : Ye Olde-Content Pack-1.8-5.0.jar
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded content pack list server side.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded part.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded bullet.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded attachment.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded grenade.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded gun.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded aa.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded vehicle.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded plane.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mechaItem.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded mecha.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded tool.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armour.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded armourBox.
+[11:48:58] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded box.
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded playerClass.
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded team.
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded itemHolder.
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Preinitializing complete.
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLPreInitializationEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Flan's Mod took 0.721s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.774s
+[11:48:59] [Server thread/INFO] [FML/]: Applying holder lookups
+[11:48:59] [Server thread/INFO] [FML/]: Holder lookups applied
+[11:48:59] [Server thread/INFO] [FML/]: Injecting itemstacks
+[11:48:59] [Server thread/INFO] [FML/]: Itemstack injection complete
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLInitializationEvent to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLInitializationEvent to mod CodeChickenCore
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - CodeChicken Core took 0.001s
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLInitializationEvent to mod flansmod
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Initialising Flan's Mod.
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Could not find P when adding recipe for nothing
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loaded recipes.
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityFlagpole
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityFlag
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityTeamItem
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.teams.EntityGunItem
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.EntityItemCustomRender
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityPlane
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityVehicle
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntitySeat
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.EntityWheel
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.tools.EntityParachute
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.driveables.mechas.EntityMecha
+[11:48:59] [Server thread/TRACE] [FML/flansmod]: Automatically registered mod flansmod entity Bullet as flansmod.Bullet
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityGrenade
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityMG
+[11:48:59] [Server thread/DEBUG] [FML/flansmod]: Skipping automatic mod flansmod entity registration for already registered class com.flansmod.common.guns.EntityAAGun
+[11:48:59] [Server thread/INFO] [STDOUT/flansmod]: [com.flansmod.common.FlansMod:log:577]: [Flan's Mod] Loading complete.
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLInitializationEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Flan's Mod took 0.391s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.394s
+[11:48:59] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
+[11:48:59] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event IMCEvent to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event IMCEvent to mod CodeChickenCore
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - CodeChicken Core took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod flansmod
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sending event IMCEvent to mod flansmod
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event IMCEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Flan's Mod took 0.001s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.007s
+[11:48:59] [Server thread/INFO] [FML/]: Injecting itemstacks
+[11:48:59] [Server thread/INFO] [FML/]: Itemstack injection complete
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.001s
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.012s
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLPostInitializationEvent to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLPostInitializationEvent to mod CodeChickenCore
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - CodeChicken Core took 0.001s
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLPostInitializationEvent to mod flansmod
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLPostInitializationEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Flan's Mod took 0.003s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.017s
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("Before", UNKNOWN, )
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[11:48:59] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[11:48:59] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.016s
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLLoadCompleteEvent to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLLoadCompleteEvent to mod CodeChickenCore
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - CodeChicken Core took 0.001s
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLLoadCompleteEvent to mod flansmod
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLLoadCompleteEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Flan's Mod took 0.001s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.019s
+[11:48:59] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[11:48:59] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[11:48:59] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[11:48:59] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[11:48:59] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.001s
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[11:48:59] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.001s
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[11:48:59] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerAboutToStartEvent to mod CodeChickenCore
+[11:48:59] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerAboutToStartEvent to mod CodeChickenCore
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - CodeChicken Core took 0.000s
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerAboutToStartEvent to mod flansmod
+[11:48:59] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerAboutToStartEvent to mod flansmod
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Flan's Mod took 0.000s
+[11:48:59] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
+[11:48:59] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[11:48:59] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[11:48:59] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[11:48:59] [Server thread/TRACE] [FML/]: Skipping remap event - no remaps occured
+[11:48:59] [Server thread/INFO] [FML/]: Applying holder lookups
+[11:48:59] [Server thread/INFO] [FML/]: Holder lookups applied
+[11:49:00] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[11:49:00] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[11:49:00] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[11:49:00] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3bff16d0)
+[11:49:00] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3bff16d0)
+[11:49:00] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3bff16d0)
+[11:49:01] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[11:49:01] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[11:49:01] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[11:49:01] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[11:49:01] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[11:49:01] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[11:49:01] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStartingEvent to mod CodeChickenCore
+[11:49:01] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStartingEvent to mod CodeChickenCore
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - CodeChicken Core took 0.000s
+[11:49:01] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStartingEvent to mod flansmod
+[11:49:01] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStartingEvent to mod flansmod
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Flan's Mod took 0.000s
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.004s
+[11:49:01] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[11:49:01] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[11:49:01] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[11:49:01] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[11:49:01] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[11:49:01] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[11:49:01] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStartedEvent to mod CodeChickenCore
+[11:49:01] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStartedEvent to mod CodeChickenCore
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - CodeChicken Core took 0.000s
+[11:49:01] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStartedEvent to mod flansmod
+[11:49:01] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStartedEvent to mod flansmod
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Flan's Mod took 0.008s
+[11:49:01] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.009s
+[11:49:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[11:50:11] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[11:50:11] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[11:50:11] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[11:50:11] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[11:50:11] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[11:50:11] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[11:50:11] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppingEvent to mod CodeChickenCore
+[11:50:11] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppingEvent to mod CodeChickenCore
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - CodeChicken Core took 0.000s
+[11:50:11] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStoppingEvent to mod flansmod
+[11:50:11] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStoppingEvent to mod flansmod
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Flan's Mod took 0.001s
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[11:50:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[11:50:11] [Server thread/INFO] [FML/]: Unloading dimension 0
+[11:50:11] [Server thread/INFO] [FML/]: Unloading dimension -1
+[11:50:11] [Server thread/INFO] [FML/]: Unloading dimension 1
+[11:50:11] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[11:50:11] [Server thread/INFO] [FML/]: Applying holder lookups
+[11:50:11] [Server thread/INFO] [FML/]: Holder lookups applied
+[11:50:11] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[11:50:11] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[11:50:11] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[11:50:11] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[11:50:11] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[11:50:11] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[11:50:11] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLServerStoppedEvent to mod CodeChickenCore
+[11:50:11] [Server thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLServerStoppedEvent to mod CodeChickenCore
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - CodeChicken Core took 0.000s
+[11:50:11] [Server thread/TRACE] [flansmod/flansmod]: Sending event FMLServerStoppedEvent to mod flansmod
+[11:50:11] [Server thread/TRACE] [flansmod/flansmod]: Sent event FMLServerStoppedEvent to mod flansmod
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Flan's Mod took 0.000s
+[11:50:11] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s

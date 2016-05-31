@@ -1,0 +1,81 @@
+[15:54:43] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[15:54:43] [Server thread/INFO]: Loading properties
+[15:54:43] [Server thread/INFO]: Default game type: SURVIVAL
+[15:54:43] [Server thread/INFO]: Generating keypair
+[15:54:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:54:44] [Server thread/INFO]: Using default channel type
+[15:54:45] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (Das System kann die angegebene Datei nicht finden)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_66]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_66]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+	at mr.g(SourceFile:136) ~[minecraft_server.jar:?]
+	at la.z(SourceFile:99) [minecraft_server.jar:?]
+	at la.<init>(SourceFile:25) [minecraft_server.jar:?]
+	at lb.j(SourceFile:184) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[15:54:45] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (Das System kann die angegebene Datei nicht finden)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_66]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_66]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+	at mr.g(SourceFile:136) ~[minecraft_server.jar:?]
+	at la.y(SourceFile:91) [minecraft_server.jar:?]
+	at la.<init>(SourceFile:27) [minecraft_server.jar:?]
+	at lb.j(SourceFile:184) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[15:54:45] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (Das System kann die angegebene Datei nicht finden)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_66]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_66]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+	at mr.g(SourceFile:136) ~[minecraft_server.jar:?]
+	at la.A(SourceFile:107) [minecraft_server.jar:?]
+	at la.<init>(SourceFile:29) [minecraft_server.jar:?]
+	at lb.j(SourceFile:184) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[15:54:45] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (Das System kann die angegebene Datei nicht finden)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_66]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_66]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+	at mr.g(SourceFile:136) ~[minecraft_server.jar:?]
+	at la.C(SourceFile:123) [minecraft_server.jar:?]
+	at la.<init>(SourceFile:30) [minecraft_server.jar:?]
+	at lb.j(SourceFile:184) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[15:54:45] [Server thread/INFO]: Preparing level "world"
+[15:54:47] [Server thread/INFO]: Preparing start region for level 0
+[15:54:48] [Server thread/INFO]: Preparing spawn area: 4%
+[15:54:49] [Server thread/INFO]: Preparing spawn area: 7%
+[15:54:50] [Server thread/INFO]: Preparing spawn area: 11%
+[15:54:51] [Server thread/INFO]: Preparing spawn area: 16%
+[15:54:52] [Server thread/INFO]: Preparing spawn area: 23%
+[15:54:53] [Server thread/INFO]: Preparing spawn area: 31%
+[15:54:54] [Server thread/INFO]: Preparing spawn area: 38%
+[15:54:55] [Server thread/INFO]: Preparing spawn area: 45%
+[15:54:56] [Server thread/INFO]: Preparing spawn area: 53%
+[15:54:57] [Server thread/INFO]: Preparing spawn area: 61%
+[15:54:58] [Server thread/INFO]: Preparing spawn area: 70%
+[15:54:59] [Server thread/INFO]: Preparing spawn area: 78%
+[15:55:00] [Server thread/INFO]: Preparing spawn area: 85%
+[15:55:01] [Server thread/INFO]: Preparing spawn area: 92%
+[15:55:02] [Server thread/INFO]: Preparing spawn area: 98%
+[15:55:02] [Server thread/INFO]: Done (16.944s)! For help, type "help" or "?"
+[15:55:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2533ms behind, skipping 50 tick(s)
+[15:59:14] [Server thread/INFO]: Stopping the server
+[15:59:14] [Server thread/INFO]: Stopping server
+[15:59:14] [Server thread/INFO]: Saving players
+[15:59:14] [Server thread/INFO]: Saving worlds
+[15:59:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:59:14] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[15:59:14] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[15:59:14] [Server Shutdown Thread/INFO]: Stopping server
